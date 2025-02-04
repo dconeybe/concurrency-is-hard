@@ -16,7 +16,7 @@ this exercise, you should write a driver for it.
      `arm_gic::wfi()`, which will cause the core to sleep until it receives an
      interrupt.
 
-Download the [exercise template](../../comprehensive-rust-exercises.zip) and
+Download the exercise template and
 look in the `rtc` directory for the following files.
 
 _src/main.rs_:

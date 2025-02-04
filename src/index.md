@@ -16,8 +16,6 @@ generics and error handling.
 > the top right corner of the page or check the
 > [Translations](running-the-course/translations.md) page for a list of all
 > available translations.
->
-> The course is also available [as a PDF](comprehensive-rust.pdf).
 
 The goal of the course is to teach you Rust. We assume you don't know anything
 about Rust and hope to:
