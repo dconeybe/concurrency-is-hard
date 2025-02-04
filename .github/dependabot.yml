@@ -8,9 +8,7 @@ updates:
     schedule:
       interval: monthly
     reviewers:
-      - djmitche
-      - mgeisler
-      - qwandor
+      - dconeybe
     commit-message:
       prefix: cargo
     groups:
@@ -25,9 +23,7 @@ updates:
     schedule:
       interval: monthly
     reviewers:
-      - djmitche
-      - mgeisler
-      - qwandor
+      - dconeybe
     commit-message:
       prefix: cargo
     groups:
@@ -42,9 +38,7 @@ updates:
     schedule:
       interval: monthly
     reviewers:
-      - djmitche
-      - mgeisler
-      - qwandor
+      - dconeybe
     commit-message:
       prefix: cargo
     groups:
@@ -59,9 +53,7 @@ updates:
     schedule:
       interval: monthly
     reviewers:
-      - djmitche
-      - mgeisler
-      - qwandor
+      - dconeybe
     commit-message:
       prefix: cargo
     groups:
@@ -76,9 +68,7 @@ updates:
     schedule:
       interval: monthly
     reviewers:
-      - djmitche
-      - mgeisler
-      - qwandor
+      - dconeybe
     commit-message:
       prefix: cargo
     groups:
@@ -93,9 +83,7 @@ updates:
     schedule:
       interval: monthly
     reviewers:
-      - djmitche
-      - mgeisler
-      - qwandor
+      - dconeybe
     commit-message:
       prefix: cargo
     groups:
@@ -110,6 +98,4 @@ updates:
     schedule:
       interval: monthly
     reviewers:
-      - djmitche
-      - mgeisler
-      - qwandor
+      - dconeybe
