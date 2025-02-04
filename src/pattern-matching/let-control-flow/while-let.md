@@ -8,7 +8,7 @@ variant which repeatedly tests a value against a pattern:
 
 ```rust,editable
 fn main() {
-    let mut name = String::from("Comprehensive Rust 🦀");
+    let mut name = String::from("Concurrency Is Hard");
     while let Some(c) = name.pop() {
         println!("character: {c}");
     }

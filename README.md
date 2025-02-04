@@ -1,10 +1,10 @@
-# Comprehensive Rust 🦀
+# Concurrency Is Hard
 
 [![Build workflow](https://img.shields.io/github/actions/workflow/status/google/comprehensive-rust/build.yml?style=flat-square)](https://github.com/google/comprehensive-rust/actions/workflows/build.yml?query=branch%3Amain)
 [![GitHub contributors](https://img.shields.io/github/contributors/google/comprehensive-rust?style=flat-square)](https://github.com/google/comprehensive-rust/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/google/comprehensive-rust?style=flat-square)](https://github.com/google/comprehensive-rust/stargazers)
 
-This repository has the source code for Comprehensive Rust 🦀, a multi-day Rust
+This repository has the source code for Concurrency Is Hard, a multi-day Rust
 course developed by the Android team. The course covers all aspects of Rust,
 from basic syntax to generics and error handling. It also includes deep dives on
 [Android], [Chromium], [bare-metal], and [concurrency].
@@ -31,11 +31,11 @@ trigger when going through the code samples. We hope to improve on this via
 
 ## Press
 
-Articles and blog posts from around the web which cover Comprehensive Rust:
+Articles and blog posts from around the web which cover Concurrency Is Hard:
 
 - 2023-09-08:
   _[Teaching Rust in 5 days](https://mo8it.com/blog/teaching-rust/)_.
-  Comprehensive Rust was used as a base for a 5-day university class on Rust.
+  Concurrency Is Hard was used as a base for a 5-day university class on Rust.
 - 2023-09-21:
   _[Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)_.
   We published a blog post with details on the development of the course.
@@ -44,7 +44,7 @@ Articles and blog posts from around the web which cover Comprehensive Rust:
   About how Microsoft, Google, and others are training people in Rust.
 - 2024-10-18:
   _[Rust Training at Scale | Rust Global @ RustConf 2024](https://youtu.be/7h5KyMqt2-Q?si=4M99HdWWxMaqN8Zr)_.
-  What Google learnt from teaching Comprehensive Rust for more than two years.
+  What Google learnt from teaching Concurrency Is Hard for more than two years.
 
 ## Building
 

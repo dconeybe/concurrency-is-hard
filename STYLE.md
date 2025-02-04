@@ -1,4 +1,4 @@
-# Comprehensive Rust 🦀 Style Guide
+# Concurrency Is Hard Style Guide
 
 The course has been expanded and improved by tons of volunteers like you! Thank
 you for that! To help ensure a consistent style throughout the course, we have
@@ -86,7 +86,7 @@ This section is about what you write in the translation. We describe
 When translating the course, please take the following into account:
 
 - Do not translate:
-  - The course name ("Comprehensive Rust 🦀"). If the name is not easily
+  - The course name ("Concurrency Is Hard"). If the name is not easily
     understood in your language, please add the translated version after the
     original name.
   - Variable names (you _should_ translate the comments, though.)

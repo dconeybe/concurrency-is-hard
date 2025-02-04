@@ -4,7 +4,7 @@ course: none
 
 # Thanks!
 
-_Thank you for taking Comprehensive Rust 🦀!_ We hope you enjoyed it and that it
+_Thank you for taking Concurrency Is Hard!_ We hope you enjoyed it and that it
 was useful.
 
 We've had a lot of fun putting the course together. The course is not perfect,

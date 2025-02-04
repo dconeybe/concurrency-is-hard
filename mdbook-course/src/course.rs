@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-//! Representation of Comprehensive Rust as a hierarchy of types.
+//! Representation of Concurrency Is Hard as a hierarchy of types.
 //!
 //! ```ignore
 //! Courses -- a collection of courses

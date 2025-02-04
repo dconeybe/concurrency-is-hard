@@ -23,7 +23,7 @@ use std::process;
 fn main() {
     pretty_env_logger::init();
     let app = Command::new("mdbook-course")
-        .about("mdbook preprocessor for Comprehensive Rust")
+        .about("mdbook preprocessor for Concurrency Is Hard")
         .subcommand(
             Command::new("supports").arg(Arg::new("renderer").required(true)),
         );

@@ -1,4 +1,4 @@
-# Translations of Comprehensive Rust 🦀
+# Translations of Concurrency Is Hard
 
 We would love to have your help with translating the course into other
 languages! Please see the [translations page] for the existing translations.

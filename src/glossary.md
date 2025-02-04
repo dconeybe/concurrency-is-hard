@@ -53,8 +53,8 @@ h1#glossary ~ ul > li:first-line {
   To invoke or execute a function or method.
 - channel:\
   Used to safely pass messages [between threads](concurrency/channels.md).
-- Comprehensive Rust 🦀:\
-  The courses here are jointly called Comprehensive Rust 🦀.
+- Concurrency Is Hard:\
+  The courses here are jointly called Concurrency Is Hard.
 - concurrency:\
   The execution of multiple tasks or processes at the same time.
 - Concurrency in Rust:\

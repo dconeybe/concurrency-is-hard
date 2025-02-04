@@ -1,6 +1,6 @@
 <!-- Keep first page as index.md to avoid giving it two names. -->
 
-[Welcome to Comprehensive Rust 🦀](index.md)
+[Welcome to Concurrency Is Hard](index.md)
 
 - [Running the Course](running-the-course.md)
   - [Course Structure](running-the-course/course-structure.md)
